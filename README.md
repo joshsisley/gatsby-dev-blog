@@ -95,13 +95,3 @@ tags: [technology, seo, writing]
 excerpt: In this post we'll see a post example...
 cover: ./preview.png
 ```
-
-### How add a translated version of a post
-
-1. Choose in the `content` path the folder of the post to translate.
-2. Place here the translated version of post and rename the file with the [ISO](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) code according to its language (ex. `index.it.md`, `index.de.md`).
-
-You've finished! Now in your post you'll get a link to translated version and viceversa.
-
-Metatags for [SEO](https://support.google.com/webmasters/answer/189077) are automatically added in each version of post pages using the ISO code choosen for the filename. Tags will only be added for posts with translated versions.
-Note that for `index.md`, the ISO code used in metatags is taken from the `config.js`' variable `defaultLanguage`.

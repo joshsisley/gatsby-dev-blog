@@ -16,7 +16,7 @@ module.exports = {
   },
   social: {
     github: 'https://github.com/joshsisley',
-    linkedin: '',
+    linkedin: 'https://www.linkedin.com/in/joshua-sisley',
     rss: '/rss.xml',
   },
   tags: {
