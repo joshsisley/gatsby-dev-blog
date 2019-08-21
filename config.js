@@ -1,9 +1,9 @@
 module.exports = {
   pathPrefix: '/gatsby-starter-developer-blog',
   siteUrl: 'https://lgcolella.github.io',
-  siteTitle: 'Josh Sisley',
-  siteDescription: 'Logbook of a software developer',
-  author: 'lcolella',
+  siteTitle: 'Programming Pathway',
+  siteDescription: 'The journey of a software developer',
+  author: 'joshsisley',
   postsForArchivePage: 3,
   defaultLanguage: 'en',
   disqusScript: 'https://josh-sisley.disqus.com/embed.js',

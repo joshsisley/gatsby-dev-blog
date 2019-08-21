@@ -1,8 +1,8 @@
 {
-  "name": "personal-site",
-  "description": "My personal site",
+  "name": "programming-pathway",
+  "description": "Programming Pathway Blog",
   "version": "1.0.0",
-  "author": "lcolella",
+  "author": "joshsisley",
   "dependencies": {
     "gatsby": "^2.0.53",
     "gatsby-image": "^2.0.20",
